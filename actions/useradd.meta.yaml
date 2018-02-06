@@ -1,0 +1,11 @@
+name: "user_add"
+pack: "linux_user_management"
+description: "Add a new linux user"
+runner_type: "action-chain"
+entry_point: "chains/user_add.yaml"
+enabled: true
+parameters:
+  sendto:
+    type: "string"
+    required: true
+

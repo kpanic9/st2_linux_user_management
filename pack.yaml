@@ -1,0 +1,12 @@
+---
+ref: linux_user_managemnt
+name: linux_user_managemnt
+description: A pack for linux user management
+keywords:
+    - linux
+    - user-management
+    - 
+version: 1.0.0
+author: Namesh Sanjitha
+email: tns.xiii@gmail.com
+
